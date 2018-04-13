@@ -9,4 +9,4 @@ Open the shinyEDA.Rproj using Rstudio
 
 Click the Run App button present on the top right corner of R Studio
 
-The video can be accessed at the link http:www.youtube.com/watch?v=VdVoEREIp
+The video can be accessed at the link https://www.youtube.com/watch?v=VdVoEREIp-U
